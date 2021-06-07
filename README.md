@@ -4,7 +4,18 @@
 
 The Note book are arranged based on the order of the Question in the assessment
 
-* **Question 1** : Numpy Notebook
+* **Question 1** :
+#### I. Considering the simple mathematical formular
+
+$$y = x^3 + \sin(x)$$
+
+* Using numpy, generate 20 random values between 0 and 1 for the values of x i.e $x \in [0, 1]$
+* Write a function for the formular and generate the corresponding values of $y$ for the generated $x$-values above
+* Visualize the plot of the given equation with the generated values
+
+# Question 1 [Numpy Notebook](https://github.com/okoliechykwuka/Bytework-assessment/blob/main/Numpy_function.ipynb)
+
+Note: Set the numpy random seed to 10
 * **Question 2** : Swarm Behaviour Research Case Notebook
 * **Question 3** :   Design a deep learning model architecture suitable for the above
 *  **Question 4** : Train and evaluate your case-study on the designed simple deep learning model architecture in III
