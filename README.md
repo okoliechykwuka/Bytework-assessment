@@ -7,7 +7,7 @@ The Note book are arranged based on the order of the Question in the assessment
 * **Question 1** :
 #### I. Considering the simple mathematical formular
 
-    $$y = x^3 + \sin(x)$$
+ $y$ = $x^3$ + $\sin$ $(x)$
 
 * Using numpy, generate 20 random values between 0 and 1 for the values of x i.e $x \in [0, 1]$
 * Write a function for the formular and generate the corresponding values of $y$ for the generated $x$-values above
