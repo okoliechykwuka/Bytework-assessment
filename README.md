@@ -2,9 +2,9 @@
 
 **The above Repository Contains AL/ML assessment from byteworks and it is comprises of 3 Modules, which are all In a Jupyter Notebook.**
 
-The Note book are arranged based on the order of the Question in the assessment
+The Note book are arranged based on the order of the Question in the assessment.
 
-* **Question 1** :
+1. Question 1 :
 #### I. Considering the simple mathematical formular
 
     y = x^3 + sin(x)
@@ -16,14 +16,13 @@ The Note book are arranged based on the order of the Question in the assessment
 
 ### Question 1 [Numpy Notebook](https://github.com/okoliechykwuka/Bytework-assessment/blob/main/Numpy_function.ipynb)
 
-
-* **Question 2** : Swarm Behaviour Research Case Notebook
+2. Question 2 : Swarm Behaviour Research Case Notebook
 
 ### Question 2 [Swarm Behaviour Research Notebook](https://github.com/okoliechykwuka/Bytework-assessment/blob/main/Swarm%20Behaviour%20Research%20Case%20Study.ipynb)
 
-* **Question 3** :   Design a deep learning model architecture suitable for the above
+3. Question 3 :   Design a deep learning model architecture suitable for the above
 
-*  **Question 4** : Train and evaluate your case-study on the designed simple deep learning model architecture in III
+4. Question 4 : Train and evaluate your case-study on the designed simple deep learning model architecture in III
 
 ### Question 3 & 4 [Deep Learning Architecture and Model Training Notebook](https://github.com/okoliechykwuka/Bytework-assessment/blob/main/Deep%20Learning%20part.ipynb)
 
