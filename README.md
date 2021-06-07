@@ -4,7 +4,7 @@
 
 The Note book are arranged based on the order of the Question in the assessment.
 
-1. Question 1 :
+### Question 1 :
 #### I. Considering the simple mathematical formular
 
     y = x^3 + sin(x)
@@ -14,17 +14,17 @@ The Note book are arranged based on the order of the Question in the assessment.
 * Visualize the plot of the given equation with the generated values
 * Note: Set the numpy random seed to 10
 
-### Question 1 [Numpy Notebook](https://github.com/okoliechykwuka/Bytework-assessment/blob/main/Numpy_function.ipynb)
+#### [Numpy Notebook](https://github.com/okoliechykwuka/Bytework-assessment/blob/main/Numpy_function.ipynb)
 
-2. Question 2 : Swarm Behaviour Research Case Notebook
+## Question 2 : Swarm Behaviour Research Case Notebook
 
-### Question 2 [Swarm Behaviour Research Notebook](https://github.com/okoliechykwuka/Bytework-assessment/blob/main/Swarm%20Behaviour%20Research%20Case%20Study.ipynb)
+#### [Swarm Behaviour Research Notebook](https://github.com/okoliechykwuka/Bytework-assessment/blob/main/Swarm%20Behaviour%20Research%20Case%20Study.ipynb)
 
-3. Question 3 :   Design a deep learning model architecture suitable for the above
+## Question 3 :   Design a deep learning model architecture suitable for the above
 
-4. Question 4 : Train and evaluate your case-study on the designed simple deep learning model architecture in III
+## Question 4 : Train and evaluate your case-study on the designed simple deep learning model architecture in III
 
-### Question 3 & 4 [Deep Learning Architecture and Model Training Notebook](https://github.com/okoliechykwuka/Bytework-assessment/blob/main/Deep%20Learning%20part.ipynb)
+####  3 & 4 [Deep Learning Architecture and Model Training Notebook](https://github.com/okoliechykwuka/Bytework-assessment/blob/main/Deep%20Learning%20part.ipynb)
 
 
 !!! Note Question 3 and 4 share the same notebook
