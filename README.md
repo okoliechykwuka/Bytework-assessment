@@ -43,9 +43,16 @@ The Note book are arranged based on the order of the Question in the assessment.
  #### Based Model DecisionTree
 <p align="center"> 
   <kbd>
-    <a href="https://github.com/okoliechykwuka/Bytework-assessment/" target="_blank"><img src="DDecisionTree.png">
+    <a href="https://github.com/okoliechykwuka/Bytework-assessment/" target="_blank"><img src="DecisionTree.png">
   </a>
   </kbd>
+    
+<!-- #### Projects Page
+<p align="center"> 
+  <kbd>
+    <a href="https://github.com/okoliechykwuka/Bytework-assessment/" target="_blank"><img src="website/Projectpage.JPG">
+  </a>
+  </kbd> -->
     
 
 ## Tool proficiency
