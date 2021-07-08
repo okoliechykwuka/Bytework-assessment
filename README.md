@@ -37,8 +37,25 @@ The Note book are arranged based on the order of the Question in the assessment.
 4. For Question 4 we, I already saved the pretrained model to dict, you can load the pretrained model using 
 
    `model2 = model.load_state_dict(torch.load('swarm-logistic.pth'))` to evaluate the model on test or validation dataset
+   
+ ## Visualisation
+ 
+ #### Based Model DecisionTree
+<p align="center"> 
+  <kbd>
+    <a href="https://github.com/okoliechykwuka/Bytework-assessment" target="_blank"><img src="DecisionTree.png">
+  </a>
+  </kbd>
+    
+<!-- #### Projects Page
+<p align="center"> 
+  <kbd>
+    <a href="https://github.com/okoliechykwuka/Bytework-assessment/" target="_blank"><img src="website/Projectpage.JPG">
+  </a>
+  </kbd> -->
+    
 
-## Took proficiency
+## Tool proficiency
 
 tools_skillsets_rating = {"Adobe Primiero Pro": 0, "Panopto": 0, "Kapwing":0}
 
