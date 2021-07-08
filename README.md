@@ -43,7 +43,7 @@ The Note book are arranged based on the order of the Question in the assessment.
  #### Based Model DecisionTree
 <p align="center"> 
   <kbd>
-    <a href="https://github.com/okoliechykwuka/Bytework-assessment" target="_blank"><img src="download.jpeg">
+    <a href="https://github.com/okoliechykwuka/Bytework-assessment" target="_blank"><img src="DecisionTree.png">
   </a>
   </kbd>
     
